@@ -16,3 +16,7 @@ Illustration of the heat storage model.
 - AAHP Air to air heat pump modul
 - Fuel and CHP Combined heat and power boilers
 - Electric boiler etc.
+
+## Plans
+Create a tool similar to what is presented in "Guidelines on energy system analysis and cost optimality in early design of ZEB".
+https://fmezen.no/wp-content/uploads/2018/05/ZEB-pr-report-no-41.pdf
