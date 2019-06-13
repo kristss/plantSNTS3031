@@ -18,5 +18,4 @@ Illustration of the heat storage model.
 - Electric boiler etc.
 
 ## Plans
-Create a tool similar to what is presented in "Guidelines on energy system analysis and cost optimality in early design of ZEB".
-https://fmezen.no/wp-content/uploads/2018/05/ZEB-pr-report-no-41.pdf
+Create a tool that meet the need in "Guidelines on energy system analysis and cost optimality in early design of ZEB". https://fmezen.no/wp-content/uploads/2018/05/ZEB-pr-report-no-41.pdf
