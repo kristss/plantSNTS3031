@@ -19,3 +19,6 @@ Illustration of the heat storage model.
 
 ## Plans
 Create a tool that meet the need in "Guidelines on energy system analysis and cost optimality in early design of ZEB". https://fmezen.no/wp-content/uploads/2018/05/ZEB-pr-report-no-41.pdf
+
+## Interface
+![Alt](images/Shiny_test_gshp_interface.jpg)
